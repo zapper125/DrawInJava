@@ -12,4 +12,5 @@ public class ArtPanel
 		super();
 		this.app = app;
 	}
+
 }
